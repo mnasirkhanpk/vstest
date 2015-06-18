@@ -21,7 +21,7 @@ namespace MyFixIt.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return View();//Some changes
         }
     }
 }
